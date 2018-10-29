@@ -1,6 +1,6 @@
 <directory_1/file_1.txt title>
 
-Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
+You learn by doing. The only way to get better at programming is to actually program. Don’t let an analysis paralysis prevent you from ever starting.
 
 Cheating is completely acceptable. I use Google to solve most of my problems, and so do most programmers.
 
